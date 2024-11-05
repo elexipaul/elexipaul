@@ -15,7 +15,7 @@
 ### 📈 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elexipaul&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elexipaul&theme=radical)
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=elexipaul&theme=react-dark)
+
 ### 👀 Profile Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=elexipaul&style=for-the-badge)
 
