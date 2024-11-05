@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on Cancer Genomics especially related to LIHC 
 - 🌱 I’m currently learning using Machine Learning Model on Cancer Datasets
-- 👯 I’m looking to collaborate in the field of single cell transcriptomics of immune micr0environment 
+- 👯 I’m looking to collaborate in the field of single cell transcriptomics of immune microenvironment 
 - 📫 How to reach me: pranjal.paul@icloud.com
 
 ### 🛠️ Technologies and Tools
