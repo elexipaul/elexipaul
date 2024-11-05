@@ -9,12 +9,15 @@
 ### 🛠️ Technologies and Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)
+![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
 
 ### 📈 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elexipaul&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elexipaul&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elexipaul&theme=radical)
 ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=elexipaul&theme=react-dark)
+### 👀 Profile Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=elexipaul&style=for-the-badge)
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/pranjal-dbt)
