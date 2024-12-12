@@ -1,0 +1,26 @@
+name: Update Date
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  update-date:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Update README with Current Date
+        run: |
+          echo "## Today's Date" > README.md
+          echo "$(date +'%Y-%m-%d')" >> README.md
+          git config --local user.email "pranjalpaul947@gmail.com"
+          git config --local user.name "elexipaul"
+          git add README.md
+          git commit -m "Update date"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
