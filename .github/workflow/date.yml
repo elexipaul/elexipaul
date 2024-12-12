@@ -13,11 +13,13 @@ jobs:
 
       - name: Update README with Current Date
         run: |
+          # Get the current date
           DATE=$(date)
-          echo "Updating README with date: $DATE"
-          sed -i "s/{{LAST_UPDATED}}/$DATE/" README.md
-          echo "README content after update:"
-          cat README.md
+          
+          # Replace the placeholder {{LAST_UPDATED}}
+          sed -i "s|{{LAST_UPDATED}}|$DATE|" README.md
+          
+          # Commit and push the changes
           git config --local user.email "pranjalpaul947@gmail.com"
           git config --local user.name "elexipaul"
           git add README.md
