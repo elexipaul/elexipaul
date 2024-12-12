@@ -1,5 +1,5 @@
 ## Today's Date
-2024-12-13
+2024-12-12
 
 ### 👀 Profile Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=elexipaul&style=for-the-badge)
