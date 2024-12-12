@@ -1,5 +1,6 @@
 ## Today's Date
-2024-12-12
+sed -i "s/{{LAST_UPDATED}}/$DATE/" README.md
+
 
 ### 👀 Profile Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=elexipaul&style=for-the-badge)
