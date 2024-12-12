@@ -1,5 +1,3 @@
-##clock
-![Clock](https://some-clock-service.com/clock?time)
 
 ### 👀 Profile Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=elexipaul&style=for-the-badge)
