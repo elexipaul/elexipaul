@@ -1,21 +1,27 @@
-name: Update Timestamp
+name: Update Date on Profile
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Runs every 5 minutes
+    - cron: '*/5 * * * *' # Runs every 5 minutes
 
 jobs:
-  update-timestamp:
+  update-date:
     runs-on: ubuntu-latest
     steps:
-      - name: Update README with Current Date and Time
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Update README with Current Date
         run: |
-          echo "## Current Date and Time" > README.md
-          echo "$(date)" >> README.md
-          git config --local user.email "pranjalpaul947@gmail.com"
+          DATE=$(date)
+          echo "Updating README with date: $DATE"
+          sed -i "s/{{LAST_UPDATED}}/$DATE/" README.md
+          echo "README content after update:"
+          cat README.md
+          git config --local user.email "pranjalpaul947@gmailcom"
           git config --local user.name "elexipaul"
           git add README.md
-          git commit -m "Update timestamp"
+          git commit -m "Update README with current date"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
