@@ -12,7 +12,7 @@ jobs:
         run: |
           echo "## Current Date and Time" > README.md
           echo "$(date)" >> README.md
-          git config --local user.email "pranjalpaul947@gmail.com"
+          git config --local user.email "pranjal.paul@iclod.com"
           git config --local user.name "elexipaul"
           git add README.md
           git commit -m "Update timestamp"
