@@ -23,9 +23,11 @@ Being an autodidact has taught me that success often comes from being agile and 
   <summary><b>📈 My GitHub Stats</b></summary>
   <br />
   <a href="http://www.github.com/elexipaul">
-    <img src="https://github-readme-stats.vercel.app/api?username=elexipaul&show_icons=true&count_private=true&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="elexipaul's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=elexipaul&show_icons=true&count_private=true&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true" alt="elexipaul's GitHub stats" />
   </a>
-[![GitHub Streak](https://streak-stats.demolab.com?user=elexipaul&theme=dark&hide_border=true&short_numbers=true&date_format=%5BY.%5Dn.j&mode=weekly&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=elexipaul&theme=dark&hide_border=true&short_numbers=true&date_format=%5BY.%5Dn.j&mode=weekly&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
+  </a>
 </details>
 
 
