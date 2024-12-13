@@ -25,13 +25,8 @@ Being an autodidact has taught me that success often comes from being agile and 
   <a href="http://www.github.com/elexipaul">
     <img src="https://github-readme-stats.vercel.app/api?username=elexipaul&show_icons=true&count_private=true&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="elexipaul's GitHub stats" />
   </a>
-  <br />
-  <a href="http://www.github.com/elexipaul">
-    <img src="https://github-readme-streak-stats.demolab.com?user=elexipaul&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-  </a>
-  <br />
+ 
 </details>
-[![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=elexipaul)](https://github.com/elexipaul/github-readme-stats)
 
 
 
