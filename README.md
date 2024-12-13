@@ -31,7 +31,7 @@ Being an autodidact has taught me that success often comes from being agile and 
   </a>
   <br />
 </details>
-
+[![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=elexipaul)](https://github.com/elexipaul/github-readme-stats)
 
 
 
