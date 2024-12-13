@@ -20,14 +20,27 @@ Being an autodidact has taught me that success often comes from being agile and 
 ![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
 
 <details>
-  <summary><b>📈 My GitHub Stats</b></summary>
-  <br />
-  <a href="http://www.github.com/elexipaul">
-    <img src="https://github-readme-stats.vercel.app/api?username=elexipaul&show_icons=true&count_private=true&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true" alt="elexipaul's GitHub stats" />
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=elexipaul&theme=dark&hide_border=true&short_numbers=true&date_format=%5BY.%5Dn.j&mode=weekly&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
-  </a>
+ <summary><h2>📊 Stats and Activity</h2></summary>
+
+  <h3>🔥 Streak Stats</h3>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/elexipaul/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="elexipaul's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=elexipaul&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="elexipaul's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=elexipaul&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="elexipaul's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=elexipaul&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
 </details>
 
 
