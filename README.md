@@ -24,7 +24,7 @@ Being an autodidact has taught me that success often comes from being agile and 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/pranjal-dbt)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/Elexi_paul)
-{{ template "hourly-table" $.TodayWeather.HourlyWeathers }}
+
 
 <!---
 elexipaul/elexipaul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
