@@ -19,7 +19,11 @@ Being an autodidact has taught me that success often comes from being agile and 
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)
 ![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
 
-### 📈 My GitHub Stats
+<br />
+
+<details>
+    <summary><b>📈 My GitHub Stats</b></summary>
+    <br />
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elexipaul&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elexipaul&theme=radical)
 
