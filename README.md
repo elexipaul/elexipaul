@@ -1,6 +1,4 @@
-# Welcome to My Profile
 
-Last updated: {{LAST_UPDATED}}
 ### 👀 Profile Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=elexipaul&style=for-the-badge)
 - # Hi there, I'm Pranjal Paul 👋
