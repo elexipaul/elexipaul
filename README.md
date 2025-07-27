@@ -3,8 +3,20 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=%F0%9F%92%A1+Innovate.;%E2%9C%A8+Inspire.;%F0%9F%94%A5+Ignite." alt="Typing SVG" /></a>
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=🧬+Decode+Protein+Structures.;🧠+Learn+Biological+Patterns.;📊+Model+Genomic+Insights.)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&background=000000&center=true&vCenter=true&width=435&lines=🔬+Quality+Control+(FastQC%2C+MultiQC);✂️+Trimming+(Trimmomatic%2C+fastp);🧬+Alignment+(STAR%2C+HISAT2);📊+Quantification+(featureCounts%2C+HTSeq);📈+Normalization+(DESeq2%2C+edgeR);🧠+Differential+Expression+Analysis;🧪+Functional+Enrichment+(GO%2C+KEGG);📊+Visualization+(ggplot2%2C+heatmaps))](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00E0E5&background=000000&center=true&vCenter=true&width=600&lines=🧪+Sample+Prep+%E2%86%92+🧬+Library+Prep+%E2%86%92+📦+Pooling+%E2%86%92+🚀+NextSeq+Run;📂+BCL+Conversion+(bcl2fastq)+%E2%86%92+📁+FASTQ+Files;🔍+QC+(FastQC%2C+MultiQC)+%E2%86%92+✂️+Trimming+(fastp%2C+Trimmomatic);🧭+Alignment+(STAR%2C+HISAT2)+%E2%86%92+📊+Quantification+(featureCounts%2C+Salmon);📈+Normalization+(DESeq2%2C+edgeR)+%E2%86%92+🧠+Differential+Expression;🧬+Functional+Enrichment+(GO%2C+KEGG)+%E2%86%92+🎨+Visualization+(ggplot2%2C+heatmaps))](https://git.io/typing-svg)
+graph TD
+  A[🧪 Sample Preparation] --> B[🧬 Library Preparation]
+  B --> C[📦 Pooling]
+  C --> D[🚀 NextSeq Run]
+  D --> E[📂 BCL Conversion (bcl2fastq)]
+  E --> F[📁 FASTQ Files]
+  F --> G[🔍 Quality Control (FastQC, MultiQC)]
+  G --> H[✂️ Trimming (fastp, Trimmomatic)]
+  H --> I[🧭 Alignment (STAR, HISAT2)]
+  I --> J[📊 Quantification (featureCounts, Salmon)]
+  J --> K[📈 Normalization (DESeq2, edgeR)]
+  K --> L[🧠 Differential Expression Analysis]
+  L --> M[🧬 Functional Enrichment (GO, KEGG)]
+  M --> N[🎨 Visualization (ggplot2, heatmaps)]
 
 
 
