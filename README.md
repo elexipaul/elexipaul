@@ -3,20 +3,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=%F0%9F%92%A1+Innovate.;%E2%9C%A8+Inspire.;%F0%9F%94%A5+Ignite." alt="Typing SVG" /></a>
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=🧬+Decode+Protein+Structures.;🧠+Learn+Biological+Patterns.;📊+Model+Genomic+Insights.)](https://git.io/typing-svg)
-graph TD
-  A[🧪 Sample Preparation] --> B[🧬 Library Preparation]
-  B --> C[📦 Pooling]
-  C --> D[🚀 NextSeq Run]
-  D --> E[📂 BCL Conversion (bcl2fastq)]
-  E --> F[📁 FASTQ Files]
-  F --> G[🔍 Quality Control (FastQC, MultiQC)]
-  G --> H[✂️ Trimming (fastp, Trimmomatic)]
-  H --> I[🧭 Alignment (STAR, HISAT2)]
-  I --> J[📊 Quantification (featureCounts, Salmon)]
-  J --> K[📈 Normalization (DESeq2, edgeR)]
-  K --> L[🧠 Differential Expression Analysis]
-  L --> M[🧬 Functional Enrichment (GO, KEGG)]
-  M --> N[🎨 Visualization (ggplot2, heatmaps)]
 
 
 
