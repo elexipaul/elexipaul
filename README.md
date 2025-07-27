@@ -1,13 +1,7 @@
 # 🚀 Pranjal
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=%F0%9F%92%A1+Innovate.;%E2%9C%A8+Inspire.;%F0%9F%94%A5+Ignite." alt="Typing SVG" /></a>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=🧬+Genomics+is+my+playground;📊+Survival+analysis+is+my+toolkit;💡+Curiosity+drives+my+code" alt="Typing SVG" />
-</div>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=F85D7F&center=true&vCenter=true&width=435&lines=🧠+ML+meets+Genomics;🔬+Predicting+ΔG+with+CNNs;📈+Survival+Analysis+in+Cancer+Research" alt="Typing SVG" />
-</div>
-<div align="center">
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=🧬+Protein+Domains+and+Stability;🧪+ΔG+Prediction+Pipeline;🧠+Interpretable+Neural+Networks" alt="Typing SVG" />
 </div>
 
