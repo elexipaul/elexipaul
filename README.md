@@ -4,7 +4,7 @@
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=🧬+Decode+Protein+Structures.;🧠+Learn+Biological+Patterns.;📊+Model+Genomic+Insights.)](https://git.io/typing-svg)
 
-
+![RNA-seq Pipeline](Copilot_20250727_234045.png)
 
 
 ### 👀 Profile Visitors
