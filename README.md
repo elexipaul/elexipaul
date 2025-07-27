@@ -9,7 +9,7 @@
 
 ### 👀 Profile Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=elexipaul&style=for-the-badge)
-- # Hi there, I'm Pranjal Paul 👋
+- # Hi there, I'm Pranjal  👋
 Being an autodidact has taught me that success often comes from being agile and dynamic, making me adaptable and always hungry for more knowledge.
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on Cancer Genomics especially related to LIHC 
