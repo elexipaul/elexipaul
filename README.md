@@ -3,6 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=%F0%9F%92%A1+Innovate.;%E2%9C%A8+Inspire.;%F0%9F%94%A5+Ignite." alt="Typing SVG" /></a>
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=🧬+Decode+Protein+Structures.;🧠+Learn+Biological+Patterns.;📊+Model+Genomic+Insights.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&background=000000&center=true&vCenter=true&width=435&lines=🔬+Quality+Control+(FastQC%2C+MultiQC);✂️+Trimming+(Trimmomatic%2C+fastp);🧬+Alignment+(STAR%2C+HISAT2);📊+Quantification+(featureCounts%2C+HTSeq);📈+Normalization+(DESeq2%2C+edgeR);🧠+Differential+Expression+Analysis;🧪+Functional+Enrichment+(GO%2C+KEGG);📊+Visualization+(ggplot2%2C+heatmaps))](https://git.io/typing-svg)
 
 
 
